@@ -1,0 +1,72 @@
+<?php
+
+/*
+|--------------------------------------------------------------------------
+| Controlador RESTful
+|--------------------------------------------------------------------------
+|
+| Esta es la plantilla de jochdev para un controlador RESTful en Codeigniter.
+| Esta plantilla contiene los métodos por defecto para llamar diferentes
+| métodos relativos a este recurso. Los clásicos están predefinidos y no
+| deben modificarse bajo ningún punto de vista. Si se necesitan más métodos,
+| éstos pueden ser agregados al final, en métodos específicos del controlador.
+|
+|
+*/
+
+class ControllerName extends CI_Controller {
+
+    ###############################
+    # CONSTRUCTOR DEL CONTROLADOR #
+    ###############################
+
+    public function __construct() {
+        parent::__construct();
+
+        // Funciones
+    }
+
+    ###################################
+    # MÉTODOS BÁSICOS DEL CONTROLADOR #
+    ###################################
+
+    // Llama una vista que muestra todos los recursos
+    public function index() {
+
+    }
+
+    // Llama una vista que muestra un recurso por id
+    public function show($id) {
+
+    }
+
+    // Llama una vista con un formulario para crear un recurso nuevo
+    public function new() {
+
+    }
+
+    // Ejecuta el proceso para crear un nuevo recurso
+    public function create() {
+
+    }
+
+    // Llama a una vista con un formulario para editar un recurso existente
+    public function edit($id) {
+
+    }
+
+    // Ejecuta el proceso para editar un recurso existente
+    public function update($id) {
+
+    }
+
+    // Ejecuta el proceso para borrar un recurso existente
+    public function destroy($id) {
+
+    }
+
+    #######################################
+    # MÉTODOS ESPECÍFICOS DEL CONTROLADOR #
+    #######################################
+
+}
