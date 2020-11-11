@@ -1,7 +1,7 @@
 <h1 align="center">Guía de Estilo de PHP para Codeigniter v3.11</h1>
-Autor: JochDev
+Autor: jochdev
 
-Proyecto: startup-web
+Proyecto: Guia estilos codexniter
 
 <h1>Tabla de Contenidos</h1>
 
