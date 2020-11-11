@@ -267,9 +267,9 @@ Luego, en la misma vista llamada, se llama al navbar y el footer si se desea.
 Navicat.
 
 ### Control de Versión (Git & Bitbucket)
-Todo nuestro código está en Bitbucket. Utilizamos como interfaz gráfica de Git,
-aunque también utilizamos la consola o el plugin para Sublime Text 3. Como sea,
-utilizamos Git y Bitbucket.
+Todo nuestro código está en Github. Utilizamos como interfaz gráfica de Git,
+aunque también utilizamos la consola o el plugin para Sublime Text 3 o Visual Studio Code. Como sea,
+utilizamos Git y Github.
 
 Siempre tenemos una rama master y una development para todos nuestros proyectos.
 Todos los commit push van a development. La rama master está bloqueada para
@@ -285,6 +285,6 @@ el servidor de producción de la aplicación.
 Implementación de Token.
 
 ## Nuestro "Super" Codeigniter
-Hemos creado nuestra propia versión de Codeigniter agregando algunas
+El objetivo es crear nuestra propia versión de lanzamiento utilizando Codeigniter agregando algunas
 características y funcionalidades últiles, como migraciones, middlewares,
 sietema de login y auto-theming, además de contar con librerías muy importantes.
