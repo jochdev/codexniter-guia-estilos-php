@@ -1,4 +1,4 @@
-<h1 align="center">Guía de Estilo de PHP para Codeigniter v3.11</h1>
+<h1 align="center">Guía de Estilo de PHP para Codeigniter v3.xx</h1>
 Autor: jochdev
 
 Proyecto: Guia estilos codexniter
